@@ -1,0 +1,26 @@
+#
+# generated on 2014/08/01 11:13:25
+#
+# --table-start--
+dataClass=com.example.horaceheaven.todo.dbmodel.Todo
+tableName=todo
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=title
+# --field-end--
+# --field-start--
+fieldName=description
+# --field-end--
+# --field-start--
+fieldName=dateCreated
+# --field-end--
+# --field-start--
+fieldName=dueDate
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
